@@ -60,8 +60,8 @@
     <section class="widget">
 		<div class="widget-title"><?php _e('友情链接'); ?></div>
     		<ul class="widget-list widget-list2 frind-links">
+                <li><a href="http://typecho.org/">Typecho</a></li>
                 <li><a href="http://www.naaln.com">Why·Liam·Home</a></li>
-                <li><a href="http://photo.naaln.com">Why·Liam·Photo</a></li>
             </ul>
     </section>
     
